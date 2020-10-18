@@ -4,7 +4,7 @@ Edit your configs in this file
 """
 
 
-TOKEN = '392293405:AAE2Hjy6zjj1qmx98VHGrHGiYduxYdGufz4'
+TOKEN = '1171023657:AAHyTPc4x1JXU8n09LIQjfAWZt7aiplwMfM'
 DAY = 86400     # sec
 
 WEBHOOK_HOST = 'localhost'                   # Write your host's IP
